@@ -9,9 +9,9 @@ User inputs length and desired criteria to generate a random secure password.
 * JavaScript (Mostly)
 
 ## Website
-
+https://arios10.github.io/password-generator/
 
 ## Contribution
 Made with ❤️ by Angel Rios
 
-![Preview](./Develop/preview.PNG)
+![Preview](./assets/images/preview.PNG)
